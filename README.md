@@ -12,5 +12,11 @@ Bugün işlenmesi gereken konular:
 * Koşullu ifadeler
 * Döngüler
  
+ ## Ödevler
+
+ for içinde if (3 örnek)
+ Fonksiyonlar (isset, empty, unset, explode, rand, date, trim, var_dump) açıklamalı
+
+
 
 

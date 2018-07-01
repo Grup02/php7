@@ -7,9 +7,11 @@ $soyisim = "Ayhan";
 $eposta = "kemalayhan013@gmail.com";
 $ortalama = 2.9;
 
-echo $isim." ".$soyisim;
+// echo $isim." ".$soyisim;
 
 $dizi = array('cokluortam' => 'A2', 'ozelogretim' => 'B3', 'toplumahizmet' => 'C1');
+
+echo $dizi['cokluortam'];
 
 $ad = array('isim' => 'kemal', 'soyad' => 'ayhan');
 
